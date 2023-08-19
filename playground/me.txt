@@ -1,0 +1,5 @@
+{{#user}}
+Name: Gaurav Kumar Dev
+Skills: HTML, CSS, JS, Next.js, Statistics, C Programming, C++ Programming, Data Structures, Database Management System(DBMS), Python, R Programming, MATLAB, Linux, Machine Learning, ReactJS, PHP, UI & UX Design, Digital Marketing, Bootstrap, Django, MongoDB, Data Science, Data Analytics, Artificial Intelligence
+Email: gauravdev1477@gmail.com
+{{/user}}
